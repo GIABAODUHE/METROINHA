@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-th.xml.gz", "https://epg.io.vn/epg.xml", "http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2021/11/Quoc-Huy-Viet-Nam.png" group-title="", Phòng Chuyển đổi số - Chuyên yếu Văn phòng Thành ủy Thành phố Hồ Chí Minh
-https://last-wooden-purchasing-liked.trycloudflare.com/QH
+https://forth-varied-carpet-proposal.trycloudflare.com/QH
 #------------------------VTV------------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="🌐| Thiết yếu", VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -39,7 +39,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_560
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png", VIETNAM TODAY 
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest/scale-to-width-down/690?cb=20220627071056&path-prefix=vi", VTVgo
-https://last-wooden-purchasing-liked.trycloudflare.com/VTV24
+https://forth-varied-carpet-proposal.trycloudflare.com/VTV24
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -296,7 +296,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTC_News_logo.svg/960px-VTC_News_logo.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", VTC News
-https://last-wooden-purchasing-liked.trycloudflare.com/VTC
+https://forth-varied-carpet-proposal.trycloudflare.com/VTC
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1022,146 +1022,146 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #------------------------Live Stream------------------------#
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/tMngDATK9dIcY0P6XjCkDTLJBDMzBjjirjxc6fQERAcj3ni_L8K0BkUj2yOCQ43S3bt3rvom=s160-c-k-c0x00ffffff-no-rj" group-title="Công Lý", NPH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/NPH
+https://forth-varied-carpet-proposal.trycloudflare.com/NPH
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Remix
+https://forth-varied-carpet-proposal.trycloudflare.com/Remix
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-Js4b1tIH1yQVQnrkxGJos9uXjTa3CMlBg8FXdQ2j9h4=s160-c-k-c0x00ffffff-no-rj", Fin'd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://last-wooden-purchasing-liked.trycloudflare.com/Find
+https://forth-varied-carpet-proposal.trycloudflare.com/Find
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="", Sad Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://last-wooden-purchasing-liked.trycloudflare.com/Sadmusic
+https://forth-varied-carpet-proposal.trycloudflare.com/Sadmusic
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi1
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi1
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://c.wallhere.com/photos/59/90/LofiGirl_LoFi_neon_LofiBoy_purple_blue-2234432.jpg!d", Lofi Girl  (synthwave radio 🌌 beats to chill/game to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi2
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi2
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/S_MOd40zlYU/maxresdefault.jpg", Lofi Girl  (dark ambient radio 🌃 music to escape/dream to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi3
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi3
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/-OekvEFm1lo/hq720.jpg?v=6707f95f&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCX_fme7MIADEN2LwIeR0hNyeC5CQ", Lofi Girl  (gentle rain ambience 🌧 cozy sound to chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi4
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi4
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/IxPANmjPaek/maxresdefault.jpg", Lofi Girl  (medieval lofi radio 🏰 - beats to scribe manuscripts to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi5
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi5
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/fQ35eh6k0RI/maxresdefault.jpg", Lofi Girl  (sleep ambient music 💤 relaxing radio to fall asleep to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi6
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi6
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/E_XmwjgRLz8/hq720.jpg?v=68a74269&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKDexjI6eVFoszf7zyadLxl7Upaw", Lofi Girl  (chill guitar radio 🎸 music to study/relax to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi7
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi7
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/q_4KI-ChIIs/mqdefault.jpg", Lofi Girl  (fireplace ambience 🔥 cozy sound to chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi8
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/5EtJrViIk2A/hq720.jpg?v=68dd324d&sqp=CMTDn9MG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdF61jp6vj33PagCE0SOcP_mCuOw", Lofi Girl  (Halloween lofi radio 🧟‍♀️ - spooky beats to get chills to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi9
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi9
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/A8jDx9TLMQc/sddefault.jpg?v=698f87e4", Lofi Girl  (relaxing jazz music 🌹 cozy radio to study/chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi10
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi10
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/G7QfxCOXEAArf1Q?format=jpg&name=4096x4096", Lofi Girl  (classical music radio 🎻 relaxing songs to read/study to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi11
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi11
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/C4qJeIjNd2U/hq720.jpg?v=6929a5ba&sqp=CNDp39IG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCD75q8Gbx9cIqvUxWYqEbD6ymHhg", Lofi Girl  (christmas lofi music🎄cozy radio to get festive to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi12
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi12
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/N0snMcR6aaA/maxresdefault.jpg", Lofi Girl  (relaxing piano radio 🎹 calm music to focus to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi13
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi13
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/JD-kMIpDfnY/maxresdefault.jpg", Lofi Girl  (lofi hip hop radio 💤 beats to sleep/chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi14
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi14
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.lofigirl.com/_next/image?url=https://cdn.lofigirl.com/jazz.jpeg&w=3840&q=75", Lofi Girl  (jazz lofi radio 🎷 beats to chill/study to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi15
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi15
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/1Tl2FtV06qo/maxresdefault.jpg", Lofi Girl  (asian lofi radio ⛩️ beats to relax/study to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi16
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi16
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/CwPCy1GLS38/hq720.jpg?v=6a16e661&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbZZH9kF9qx82t5UOjQEy7ypDuCQ", Lofi Girl  (sad lofi radio ☔ beats for rainy days)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi17
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi17
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://cdn.lofigirl.com/pomodro.jpeg", Lofi Girl  (Study With Me 📚 Pomodoro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi18
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi18
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi19
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi19
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://instagram.fsgn23-1.fna.fbcdn.net/v/t51.82787-15/564221590_17925620607115629_9047769837916724154_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0MjcwODI1NjMxNDkzMzg2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DDyck28aZNwQ7kNvwF2Rb5Z&_nc_oc=AdrVRtEdg7YZQMirpdEZYGD-MllDahRD16rTMIBL2b8Ix8H05T426qcaY46c778c0_gx3QmCvQsz3HtfZc_eohbm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsgn23-1.fna&_nc_gid=JQ4uYtSLZReIhzq4GKJ81w&_nc_ss=7a22e&oh=00_AQFFcaa8RHe1vVz6oVTSE-rU1egaJr8PGVsl_NCeIGxrVg&oe=6A8A16FA", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi20
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi20
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://scontent.fsgn23-1.fna.fbcdn.net/v/t39.99422-6/759373336_1566989291478192_5534757778137232259_n.png?stp=dst-jpg_tt6&cstp=mx1392x783&ctp=s1392x783&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGyGo73SqN7qhXlN8n8jta5utz0_xZy7wO63PT_FnLvA5YGCBpR6lyEAk6LftMP-mdULnIx2i1Uw11bRQrfX-6k&_nc_ohc=JgvX4-cX1EIQ7kNvwFccP42&_nc_oc=Adqf2mQAy1SfAm8Ls_Jp7u6qHl2GWTy36mMJ9cJ3f80_a_Tr64zNJ3T_w-eZKI70_17dSXgwhAtk6mw-61kPw7pd&_nc_zt=14&_nc_ht=scontent.fsgn23-1.fna&_nc_gid=KSJledHfOa5aUFgi7Un9CQ&_nc_ss=7b2a8&oh=00_AQEdmuqFlLzCF43LNcdeD69Yc9X8whq282pbtkrUgPO42Q&oe=6A8A36FA", Lofi Girl  (24/7 deep sleep music 🌌 calm ambient to sleep & dream to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi21
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi21
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HPnva7zWYAARGb1?format=jpg&name=large", Lofi Girl (summer lofi radio ☀️ music to put you in a better mood)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Lofi22
+https://forth-varied-carpet-proposal.trycloudflare.com/Lofi22
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/NKUNfkXGmKEjzBEEkFUoLpRKUqJGOA4KQ5VknBod-Npk2eRARp6VnR8OkRbjmQw7mArR6sAR4kk=s160-c-k-c0x00ffffff-no-rj", Dreamcore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Dream
+https://forth-varied-carpet-proposal.trycloudflare.com/Dream
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Doraemon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Doraemon
+https://forth-varied-carpet-proposal.trycloudflare.com/Doraemon
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Pokemon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Pokemon
+https://forth-varied-carpet-proposal.trycloudflare.com/Pokemon
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/VTHDoO1AwTgwAJ9dxgnkz9mlP0ZWYTURRPwiSrs03arAlW3qgqNn9a6ql83NpQwwfD2s10d6rw=s160-c-k-c0x00ffffff-no-rj", Shaun the Sheep [ViệtNam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Sheep
+https://forth-varied-carpet-proposal.trycloudflare.com/Sheep
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://fanart.tv/api/download.php?type=download&image=251936&section=3", Xin Chào Jadoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Jadoo
+https://forth-varied-carpet-proposal.trycloudflare.com/Jadoo
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/T5jVxbf_qo_zKAHx_blbMRvyElV9jc_u4PwuWqvDxgDStRfrgrw0BKtSdXQyAtwMBGARKyPRYg=s160-c-k-c0x00ffffff-no-rj", Talking Tom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Tom
+https://forth-varied-carpet-proposal.trycloudflare.com/Tom
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/o3XSE_XXaKJmo185uk4OTY3gf56rwCtviaR0bU3ecA4JO5AqJToAbfx0vS7zbVjL-_qVcXwjrg=s160-c-k-c0x00ffffff-no-rj", Brainrot Stories
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Brainrot
+https://forth-varied-carpet-proposal.trycloudflare.com/Brainrot
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mk1yYF4OxAX212QkZI7EEa9LEXMaHS7uq8ihLllD1OHg0=s900-c-k-c0x00ffffff-no-rj", JayGrayVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Jaygray
+https://forth-varied-carpet-proposal.trycloudflare.com/Jaygray
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/qrnXgq-bKVyBS-fEMLKS-OHupHHgoF1jWY8XGG4aZeQ4_kiNo54QYYfBOfas3It46k2-lN21uyc=s900-c-k-c0x00ffffff-no-rj", Redhood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Redhood
+https://forth-varied-carpet-proposal.trycloudflare.com/Redhood
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/WbmMTISXZrssK2iBKWxA6E_O6GMIr8_SZ76tsRQrvLDQJhJnXkhNbXZjA7oJRRFnDJ9APAlNTjc=s900-c-k-c0x00ffffff-no-rj", Mều Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Meu
+https://forth-varied-carpet-proposal.trycloudflare.com/Meu
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/RfQiRrbPVAXxnKfsd2AgbAuCjwKNYozS9ivNEhsXKQuOmW9_6_JYtMDfOZTQnSReggRy9ONj=s160-c-k-c0x00ffffff-no-rj", Hat Snow Player
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Hatsnow
+https://forth-varied-carpet-proposal.trycloudflare.com/Hatsnow
 #------------------------Camera------------------------#
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giao thông cầu Vĩnh Tuy (Hà Nội)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Camhanoi
+https://forth-varied-carpet-proposal.trycloudflare.com/Camhanoi
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Hon Chong Beach (Nha Trang)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/Camnhatrang
+https://forth-varied-carpet-proposal.trycloudflare.com/Camnhatrang
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam001 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM001
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM001
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam002 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM002
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM002
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam003 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM003
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM003
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam004 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM004
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM004
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam005 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM005
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM005
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam006 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM006
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM006
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam007 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSCAM007
+https://forth-varied-carpet-proposal.trycloudflare.com/KSCAM007
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giám sát Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://last-wooden-purchasing-liked.trycloudflare.com/KSMONITOR
+https://forth-varied-carpet-proposal.trycloudflare.com/KSMONITOR
 
 #EXTINF:-1 tvg-id="" group-title="Viet Channel"  tvg-logo="http://www.vietchannels.com/channels/logo/vietoday-television-live.png", Vietoday Television 
 https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDI6NTg6MzkgUE0maGFzaF92YWx1ZT00UkcwUDJDc0VWeG1UWlFhYVdidHhnPT0mdmFsaWRtaW51dGVzPTE0NDA=
