@@ -296,7 +296,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTC_News_logo.svg/960px-VTC_News_logo.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", VTC News
-https://tracks-airport-suburban-wage.trycloudflare.com/VTC
+https://framework-collected-signal-achieve.trycloudflare.com/VTC
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1034,7 +1034,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #------------------------Live Stream------------------------#
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/tMngDATK9dIcY0P6XjCkDTLJBDMzBjjirjxc6fQERAcj3ni_L8K0BkUj2yOCQ43S3bt3rvom=s160-c-k-c0x00ffffff-no-rj" group-title="Công Lý", NPH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/NPH
+https://framework-collected-signal-achieve.trycloudflare.com/NPH
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
@@ -1043,7 +1043,7 @@ http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
 http://huetr-iptv-live.loca.lt/live/Find/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="", Sad Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://tracks-airport-suburban-wage.trycloudflare.com/Sadmusic
+https://framework-collected-signal-achieve.trycloudflare.com/Sadmusic
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
@@ -1150,34 +1150,34 @@ http://huetr-iptv-live.loca.lt/live/Hatsnow/index.m3u8
 #------------------------Camera------------------------#
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giao thông cầu Vĩnh Tuy (Hà Nội)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/Camhanoi
+https://framework-collected-signal-achieve.trycloudflare.com/Camhanoi
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Hon Chong Beach (Nha Trang)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/Camnhatrang
+https://framework-collected-signal-achieve.trycloudflare.com/Camnhatrang
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam001 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM001
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM001
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam002 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM002
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM002
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam003 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM003
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM003
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam004 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM004
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM004
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam005 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM005
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM005
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam006 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM006
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM006
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Cam007 Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSCAM007
+https://framework-collected-signal-achieve.trycloudflare.com/KSCAM007
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giám sát Vườn Quốc Gia Cát Tiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tracks-airport-suburban-wage.trycloudflare.com/KSMONITOR
+https://framework-collected-signal-achieve.trycloudflare.com/KSMONITOR
 
 #EXTINF:-1 tvg-id="" group-title="Viet Channel"  tvg-logo="http://www.vietchannels.com/channels/logo/vietoday-television-live.png", Vietoday Television 
 https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDI6NTg6MzkgUE0maGFzaF92YWx1ZT00UkcwUDJDc0VWeG1UWlFhYVdidHhnPT0mdmFsaWRtaW51dGVzPTE0NDA=
