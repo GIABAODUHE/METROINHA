@@ -295,7 +295,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTC_News_logo.svg/960px-VTC_News_logo.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", VTC News
-https://applicable-threshold-investigators-xbox.trycloudflare.com/VTC
+https://springs-expenditure-publisher-parental.trycloudflare.com/VTC
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1021,6 +1021,18 @@ https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png",360 Phim 4K
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858575882/443f73b6662b_480_270.png",360 Karaoke Bolero
+https://vmttv.dpdns.org/tv360/?id=360-karaoke-bolero
+#EXTINF:-1 tvg-id="360mrbean" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png", 360 Mr.bean
+https://vmttv.dpdns.org/tv360/?id=360-mr-bean
+#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
+https://vmttv.dpdns.org/tv360/?id=360-doraemon
+#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859301551/c840fcf1e3e0_480_270.png", 360 Thám Tử Conan
+https://vmttv.dpdns.org/tv360/?id=360-tham-tu-conan
+#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Châu Tinh Trì
+https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
+#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Sống khỏe
+https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 #------------------------Khoảng khắc thể thao------------------------#
 #EXTINF:-1 tvg-id="360-c1-chau-au" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
@@ -1040,11 +1052,12 @@ https://vmttv.dpdns.org/tv360/?id=360-golf
 https://vmttv.dpdns.org/tv360/?id=360-tennis
 #EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png", TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/jgIyWZPSS3U/maxresdefault.jpg", Dự Báo Thời Tiết [AI]
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
+https://vmttv.dpdns.org/tv360/?id=livestream-01
 #------------------------Live Stream------------------------#
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/tMngDATK9dIcY0P6XjCkDTLJBDMzBjjirjxc6fQERAcj3ni_L8K0BkUj2yOCQ43S3bt3rvom=s160-c-k-c0x00ffffff-no-rj" group-title="Công Lý", NPH
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/tMngDATK9dIcY0P6XjCkDTLJBDMzBjjirjxc6fQERAcj3ni_L8K0BkUj2yOCQ43S3bt3rvom=s160-c-k-c0x00ffffff-no-rj" group-title="Công Lý", US-UK Lofi Cover
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://applicable-threshold-investigators-xbox.trycloudflare.com/NPH
+http://huetr-iptv-live.loca.lt/live/USUK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
@@ -1053,7 +1066,7 @@ http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
 http://huetr-iptv-live.loca.lt/live/Find/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="", Sad Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://applicable-threshold-investigators-xbox.trycloudflare.com/Sadmusic
+https://springs-expenditure-publisher-parental.trycloudflare.com/Sadmusic
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
@@ -1112,10 +1125,10 @@ https://huetr-iptv-live.loca.lt/live/Lofi18/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi19/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://instagram.fsgn23-1.fna.fbcdn.net/v/t51.82787-15/564221590_17925620607115629_9047769837916724154_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0MjcwODI1NjMxNDkzMzg2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DDyck28aZNwQ7kNvwF2Rb5Z&_nc_oc=AdrVRtEdg7YZQMirpdEZYGD-MllDahRD16rTMIBL2b8Ix8H05T426qcaY46c778c0_gx3QmCvQsz3HtfZc_eohbm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsgn23-1.fna&_nc_gid=JQ4uYtSLZReIhzq4GKJ81w&_nc_ss=7a22e&oh=00_AQFFcaa8RHe1vVz6oVTSE-rU1egaJr8PGVsl_NCeIGxrVg&oe=6A8A16FA", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeIP3wU3c4SPhjHSclrhtrQPcHhAdEohIEc3-xCf-VztM9D_O", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi20/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://scontent.fsgn23-1.fna.fbcdn.net/v/t39.99422-6/759373336_1566989291478192_5534757778137232259_n.png?stp=dst-jpg_tt6&cstp=mx1392x783&ctp=s1392x783&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGyGo73SqN7qhXlN8n8jta5utz0_xZy7wO63PT_FnLvA5YGCBpR6lyEAk6LftMP-mdULnIx2i1Uw11bRQrfX-6k&_nc_ohc=JgvX4-cX1EIQ7kNvwFccP42&_nc_oc=Adqf2mQAy1SfAm8Ls_Jp7u6qHl2GWTy36mMJ9cJ3f80_a_Tr64zNJ3T_w-eZKI70_17dSXgwhAtk6mw-61kPw7pd&_nc_zt=14&_nc_ht=scontent.fsgn23-1.fna&_nc_gid=KSJledHfOa5aUFgi7Un9CQ&_nc_ss=7b2a8&oh=00_AQEdmuqFlLzCF43LNcdeD69Yc9X8whq282pbtkrUgPO42Q&oe=6A8A36FA", Lofi Girl  (24/7 deep sleep music 🌌 calm ambient to sleep & dream to)
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0QRwCKadz2AtMC7swCtOSscf_PKNACl9EskiLj0FCjpenc8xv", Lofi Girl  (24/7 deep sleep music 🌌 calm ambient to sleep & dream to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi21/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HPnva7zWYAARGb1?format=jpg&name=large", Lofi Girl (summer lofi radio ☀️ music to put you in a better mood)
@@ -1130,9 +1143,9 @@ http://huetr-iptv-live.loca.lt/live/Dream/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Doraemon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Doraemon/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Pokemon
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Maruko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Pokemon/index.m3u8
+http://huetr-iptv-live.loca.lt/live/Maruko/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/VTHDoO1AwTgwAJ9dxgnkz9mlP0ZWYTURRPwiSrs03arAlW3qgqNn9a6ql83NpQwwfD2s10d6rw=s160-c-k-c0x00ffffff-no-rj", Shaun the Sheep [ViệtNam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Sheep/index.m3u8
