@@ -240,7 +240,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/SCTV4K.png", SCTV 4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+https://devonlynino.github.io/assets/vod/archive/testcard/index.m3u8
 #------------------------HTV------------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1-Đài PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -294,8 +294,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png", QPVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
-#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTC_News_logo.svg/960px-VTC_News_logo.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", VTC News
-https://proudly-progressive-under-darwin.trycloudflare.com/VTC
+#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/Logo_b%C3%A1o_Vietnamnet.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original" group-title="", Báo VietNamNet
+http://huetr-iptv-live.loca.lt/live/VNN/index.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1066,7 +1066,7 @@ http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
 http://huetr-iptv-live.loca.lt/live/Find/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="", Sad Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://proudly-progressive-under-darwin.trycloudflare.com/Sadmusic
+https://ran-everyday-licensed-sufficiently.trycloudflare.com/Sadmusic
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
