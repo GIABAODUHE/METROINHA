@@ -37,7 +37,7 @@ https://vmttv.dpdns.org/tv360/?id=vtv9
 https://vmttv.dpdns.org/tv360/?id=vtv10
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png", VIETNAM TODAY 
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/VTVgo_logo.png/revision/latest/scale-to-width-down/690?cb=20220627071056&path-prefix=vi", VTVgo
+#EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/display-block/20260906/2026090609/a296bc423d-Logo-THOI-SU.webp", VTV24
 http://huetr-iptv-live.loca.lt/live/VTV24/index.m3u8
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải trí
@@ -294,8 +294,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png", QPVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
-#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/Logo_b%C3%A1o_Vietnamnet.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original" group-title="", Báo VietNamNet
-http://huetr-iptv-live.loca.lt/live/VNN/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/960px-Logo_VOV.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", Báo Điện tử Tiếng nói Việt Nam (VOV)
+http://huetr-iptv-live.loca.lt/live/VOV/index.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -706,8 +706,8 @@ https://audio-lss.vov.vn/live/vov3.m3u8
 
 #EXTINF:-1 tvg-id="vov4mt" tvg-logo="https://freem3u.xyz/static/images/vov/vov4_mientrung.png" group-title="VOV", VOV4 Miền Trung
 
-#EXTINF:-1 tvg-logo="https://foxxradio.com/upload/vi/1671788606.png.webp" group-title="VOV", VOV MEKONG
-
+#EXTINF:-1 tvg-id="vovsonata" tvg-logo="https://media.vov.vn/vov-static/sonata/logo-sonata.png" group-title="VOV", VOV SANTA FM89
+https://audio-lss.vov.vn/live/sonata.m3u8
 #EXTINF:-1 tvg-id="vov5" tvg-logo="https://freem3u.xyz/static/images/vov/vov5.png" group-title="VOV", VOV5 WORLD
 https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 tvg-id="vov247" tvg-logo="https://freem3u.xyz/static/images/vov/vov5_english.png" group-title="VOV",VOV5 ENGLISH 24/7
@@ -745,23 +745,23 @@ https://live-hq.evgcdn.net/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/lcwk" group-title="Radio",QNR2 (FM94.7MHz)
 http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/Xtw7" group-title="Radio",HANOI FM90
+#EXTINF:-1 tvg-id="hanoi90" tvg-logo="https://byvn.net/Xtw7" group-title="Radio",HANOI FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-logo="https://byvn.net/i4OJ" group-title="Radio",HANOI FM96
+#EXTINF:-1 tvg-id="hanoi96" tvg-logo="https://byvn.net/i4OJ" group-title="Radio",HANOI FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
-#EXTINF:-1 tvg-logo="https://byvn.net/5lkm" group-title="Radio",HAI PHONG FM93.7
+#EXTINF:-1 tvg-id="haiphong937" tvg-logo="https://byvn.net/5lkm" group-title="Radio",HAI PHONG FM93.7MHz
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/5lkm" group-title="Radio",HAI PHONG FM102.2
+#EXTINF:-1 tvg-id="haiphong1022" tvg-logo="https://byvn.net/5lkm" group-title="Radio",HAI PHONG FM102.2MHz
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/61zI" group-title="Radio",HUNG YEN RADIO (FM92.7MHz)
+#EXTINF:-1 tvg-id="hungyenradio" tvg-logo="https://byvn.net/61zI" group-title="Radio",HUNG YEN RADIO (FM92.7MHz)
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/9Yg3" group-title="Radio",BAC NINH (FM92.1MHz - FM98,4MHz)
+#EXTINF:-1 tvg-id="bacninhradio" tvg-logo="https://byvn.net/9Yg3" group-title="Radio",BAC NINH (FM92.1MHz - FM98,4MHz)
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/y0Hh" group-title="Radio",NINH BINH FM (FM98.1MHz)
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/4Lfv" group-title="Radio",NGHE AN (FM99.6MHz)
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/PTWY" group-title="Radio",HA TINH (FM97.8MHz)
+#EXTINF:-1 tvg-id="hatinhradio" tvg-logo="https://byvn.net/PTWY" group-title="Radio",HA TINH (FM97.8MHz)
 https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/G07Z" group-title="Radio",DANANG RADIO (FM98.5MHz)
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
@@ -774,25 +774,27 @@ https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724
 #EXTINF:-1 tvg-logo="https://byvn.net/ZV5I" group-title="Radio",GIA LAI (FM102MHz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.gialaitv.vn/radio.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/0NnO" group-title="Radio",DAK LAK FM (FM92.4MHz & FM94.7MHz)
+#EXTINF:-1 tvg-id="daklakradio" tvg-logo="https://byvn.net/0NnO" group-title="Radio",DAK LAK FM (FM92.4MHz & FM94.7MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/hJzQ" group-title="Radio",LAM DONG (FM97MHz)
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/h3Bd" group-title="Radio",DONG NAI RADIO (FM97.5MHz)
+#EXTINF:-1 tvg-id="dongnairadio" tvg-logo="https://byvn.net/h3Bd" group-title="Radio",DONG NAI RADIO (FM97.5MHz)
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://audio.thvl.vn/_next/static/media/logo.a43bd5a8.png" group-title="Radio",VINH LONG (FM90.2MHz)
 https://tv.vietanhtv.top/vieon/vieon.php?id=vinh-long-audio
 #EXTINF:-1 tvg-logo="https://byvn.net/y7qS" group-title="Radio"," TAY NINH (FM103.1MHz)
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/N62a" group-title="Radio",DONG THAP (FM96.2MHz - FM98.4MHz)
+#EXTINF:-1 tvg-id="dongthapradio" tvg-logo="https://byvn.net/N62a" group-title="Radio",DONG THAP (FM96.2MHz - FM98.4MHz)
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/aBWj" group-title="Radio",CAN THO (FM97.3MHz)
+#EXTINF:-1 tvg-id="canthoradio1" tvg-logo="https://byvn.net/aBWj" group-title="Radio",CAN THO (FM97.3MHz)
 https://live.canthotv.vn/live/radio1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", CAN THO (89.6 MHz)
+https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 #EXTINF:-1 tvg-logo="https://byvn.net/VJE1" group-title="Radio",AN GIANG FM (FM93.1MHz)
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
-#EXTINF:-1 tvg-logo="https://byvn.net/TE0f" group-title="Radio",AN GIANG FM (FM99.4MHz)
+#EXTINF:-1 tvg-id="angiangradio" tvg-logo="https://byvn.net/TE0f" group-title="Radio",AN GIANG FM (FM99.4MHz)
 http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ggktBtm/camau.png" group-title="Radio", CA MAU FM (FM94.6MHz)
+#EXTINF:-1 tvg-id="camauradio" tvg-logo="https://i.ibb.co/ggktBtm/camau.png" group-title="Radio", CA MAU FM (FM94.6MHz)
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #------------------------RADIO QUỐC TẾ------------------------#
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/puhzqaytwg9d.png" group-title="Radio Quốc Tế", Cherry Radio
@@ -905,97 +907,97 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wwWyLf1tVeOZirJ5zJjg0w","k":"EpmDNcfaiYd6obHVDx7BdA"}],"type":"temporary"}
 https://vmttv.dpdns.org/tv360/?id=tv360-15
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
+#EXTINF:-1 tvg-id="vtvprime1" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
+#EXTINF:-1 tvg-id="vtvprime2" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
+#EXTINF:-1 tvg-id="vtvprime3" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
+#EXTINF:-1 tvg-id="vtvprime4" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
+#EXTINF:-1 tvg-id="vtvprime5" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
+#EXTINF:-1 tvg-id="vtvprime6" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
+#EXTINF:-1 tvg-id="vtvprime7" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
+#EXTINF:-1 tvg-id="vtvprime8" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
+#EXTINF:-1 tvg-id="vtvprime9" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
+#EXTINF:-1 tvg-id="vtvprime10" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 11
+#EXTINF:-1 tvg-id="vtvprime11" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 12
+#EXTINF:-1 tvg-id="vtvprime12" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 13
+#EXTINF:-1 tvg-id="vtvprime13" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS3/Live_DASHDRM/SKSS3.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 14
+#EXTINF:-1 tvg-id="vtvprime14" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS4/Live_DASHDRM/SKSS4.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 15
+#EXTINF:-1 tvg-id="vtvprime15" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
-#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 16
+#EXTINF:-1 tvg-id="vtvprime16" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 16
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1019,19 +1021,19 @@ https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
 https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
 #EXTINF:-1 tvg-id="360-k-drama" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png",360 Phim 4K
+#EXTINF:-1 tvg-id="360phim4k" group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png",360 Phim 4K
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858575882/443f73b6662b_480_270.png",360 Karaoke Bolero
+#EXTINF:-1 tvg-id="360bolero" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858575882/443f73b6662b_480_270.png",360 Karaoke Bolero
 https://vmttv.dpdns.org/tv360/?id=360-karaoke-bolero
 #EXTINF:-1 tvg-id="360mrbean" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png", 360 Mr.bean
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
-#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859301551/c840fcf1e3e0_480_270.png", 360 Thám Tử Conan
+#EXTINF:-1 tvg-id="360conan" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859301551/c840fcf1e3e0_480_270.png", 360 Thám Tử Conan
 https://vmttv.dpdns.org/tv360/?id=360-tham-tu-conan
-#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Châu Tinh Trì
+#EXTINF:-1 tvg-id="360chautinhtri" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Châu Tinh Trì
 https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
-#EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Sống khỏe
+#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Sống khỏe
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 #------------------------Khoảng khắc thể thao------------------------#
 #EXTINF:-1 tvg-id="360-c1-chau-au" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
@@ -1055,7 +1057,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
 https://vmttv.dpdns.org/tv360/?id=livestream-01
 #------------------------Live Stream------------------------#
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/tMngDATK9dIcY0P6XjCkDTLJBDMzBjjirjxc6fQERAcj3ni_L8K0BkUj2yOCQ43S3bt3rvom=s160-c-k-c0x00ffffff-no-rj" group-title="Công Lý", US-UK Lofi Cover
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.ytimg.com/vi/OOBHpdo1dZU/mqdefault.jpg" group-title="Công Lý", US-UK Lofi Cover
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/USUK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
@@ -1064,9 +1066,6 @@ http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-Js4b1tIH1yQVQnrkxGJos9uXjTa3CMlBg8FXdQ2j9h4=s160-c-k-c0x00ffffff-no-rj", Fin'd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 http://huetr-iptv-live.loca.lt/live/Find/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="", Sad Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-https://enclosed-hourly-heavily-xml.trycloudflare.com/Sadmusic
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
@@ -1092,7 +1091,7 @@ https://huetr-iptv-live.loca.lt/live/Lofi7/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/q_4KI-ChIIs/mqdefault.jpg", Lofi Girl  (fireplace ambience 🔥 cozy sound to chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi8/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/5EtJrViIk2A/hq720.jpg?v=68dd324d&sqp=CMTDn9MG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdF61jp6vj33PagCE0SOcP_mCuOw", Lofi Girl  (Halloween lofi radio 🧟‍♀️ - spooky beats to get chills to)
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.ggpht.com/ek1g6M4BrNVH0CEdn7s2jciNv--IeBpMJ98EM1muXOFoFTNb852nWj41PqSoNvzvvJeigghZtO4h=s1024-nd-v1", Lofi Girl  (Halloween lofi radio 🧟‍♀️ - spooky beats to get chills to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi9/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/A8jDx9TLMQc/sddefault.jpg?v=698f87e4", Lofi Girl  (relaxing jazz music 🌹 cozy radio to study/chill to)
@@ -1101,7 +1100,7 @@ https://huetr-iptv-live.loca.lt/live/Lofi10/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/G7QfxCOXEAArf1Q?format=jpg&name=4096x4096", Lofi Girl  (classical music radio 🎻 relaxing songs to read/study to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi11/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/C4qJeIjNd2U/hq720.jpg?v=6929a5ba&sqp=CNDp39IG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCD75q8Gbx9cIqvUxWYqEbD6ymHhg", Lofi Girl  (christmas lofi music🎄cozy radio to get festive to)
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/4t4AQ15yj1M/hq720.jpg?v=6aea0b77&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-o20R6CgarhmCJpCiHwuRAwlM8Q", Lofi Girl  (christmas lofi music🎄cozy radio to get festive to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi12/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/N0snMcR6aaA/maxresdefault.jpg", Lofi Girl  (relaxing piano radio 🎹 calm music to focus to)
@@ -1110,7 +1109,7 @@ https://huetr-iptv-live.loca.lt/live/Lofi13/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/JD-kMIpDfnY/maxresdefault.jpg", Lofi Girl  (lofi hip hop radio 💤 beats to sleep/chill to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi14/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.lofigirl.com/_next/image?url=https://cdn.lofigirl.com/jazz.jpeg&w=3840&q=75", Lofi Girl  (jazz lofi radio 🎷 beats to chill/study to)
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/E2vONfzoyRI/hqdefault.jpg?v=6ad62c7c", Lofi Girl  (jazz lofi radio 🎷 beats to chill/study to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi15/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/1Tl2FtV06qo/maxresdefault.jpg", Lofi Girl  (asian lofi radio ⛩️ beats to relax/study to)
