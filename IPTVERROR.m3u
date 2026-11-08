@@ -238,9 +238,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctvphim
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/SCTV4K.png", SCTV 4K 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://devonlynino.github.io/assets/vod/archive/testcard/index.m3u8
 #------------------------HTV------------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1-Đài PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1057,6 +1054,21 @@ https://vmttv.dpdns.org/tv360/?id=360-bundesliga
 https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 tvg-id="360-tennis" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
 https://vmttv.dpdns.org/tv360/?id=360-tennis
+#------------------------Đài Phát------------------------#
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/9/22/jack-1790048457337709609476.png", J97
+http://huetr-iptv-live.loca.lt/live/J97/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/bN-TLg3P5dbDFYNbpzeCs8yPkaHZBOWXzUd3YD7ewUIXP8siAUiFLl1sa9NAhFQkL_gjj34mYw=s900-c-k-c0x00ffffff-no-rj", Nguyễn Thái Học Official
+http://huetr-iptv-live.loca.lt/live/NTH/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/kZL6v5EBYwtNfRKfkP6md3c6Gjzf0g6efOFCD4EDV2AghiOqETQj5QC3NUCptNAq_bsxEjZZcR0=s900-c-k-c0x00ffffff-no-rj", Hiền Hồ Official
+http://huetr-iptv-live.loca.lt/live/HH/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/L46th1F8NFrBcu0CnXCFqp0zYwGFiA7dYD-9ZGgDNNxKZXrOuYWcpBCer-Kku_G9ndmDBttsgg=s900-c-k-c0x00ffffff-no-rj", TUNG DUONG Official
+http://huetr-iptv-live.loca.lt/live/TD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/0XplkO2ypV1TrQuLhzJHNjtNein9nLSXH8OrT2f2CIQpkqpah6PHNH5nCXu4C-8CqAHOd2T8=s900-c-k-c0x00ffffff-no-rj", Quốc Thiên Official
+http://huetr-iptv-live.loca.lt/live/QT/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/qffiem05lPLzx7tR4i0PQ24eMq5t7KD0AhO_MIXM0Brzh2yRcW0QCH-KReAj0jb1xrqQ3e_9sQ=s900-c-k-c0x00ffffff-no-rj", VĂN MAI HƯƠNG OFFICIAL
+http://huetr-iptv-live.loca.lt/live/VMH/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/e4Pnr3Qac1GrRCfLrozDUEZM4-SoOzgn0YddQDXQXXGS4NzX7aCrLJXZW-EAOYY7T436_es-=s900-c-k-c0x00ffffff-no-rj", Trịnh Đình Quang Official
+http://huetr-iptv-live.loca.lt/live/TDQ/index.m3u8
 #------------------------Live Stream------------------------#
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 1
 http://huetr-iptv-live.loca.lt/live/NASA1/index.m3u8
@@ -1126,7 +1138,7 @@ https://huetr-iptv-live.loca.lt/live/Lofi17/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://cdn.lofigirl.com/pomodro.jpeg", Lofi Girl  (Study With Me 📚 Pomodoro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi18/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
+#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://huetr-iptv-live.loca.lt/live/Lofi19/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeIP3wU3c4SPhjHSclrhtrQPcHhAdEohIEc3-xCf-VztM9D_O", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
@@ -1162,18 +1174,6 @@ http://huetr-iptv-live.loca.lt/live/Tom/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/o3XSE_XXaKJmo185uk4OTY3gf56rwCtviaR0bU3ecA4JO5AqJToAbfx0vS7zbVjL-_qVcXwjrg=s160-c-k-c0x00ffffff-no-rj", Brainrot Stories
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Brainrot/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mk1yYF4OxAX212QkZI7EEa9LEXMaHS7uq8ihLllD1OHg0=s900-c-k-c0x00ffffff-no-rj", JayGrayVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Jaygray/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/qrnXgq-bKVyBS-fEMLKS-OHupHHgoF1jWY8XGG4aZeQ4_kiNo54QYYfBOfas3It46k2-lN21uyc=s900-c-k-c0x00ffffff-no-rj", Redhood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Redhood/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/WbmMTISXZrssK2iBKWxA6E_O6GMIr8_SZ76tsRQrvLDQJhJnXkhNbXZjA7oJRRFnDJ9APAlNTjc=s900-c-k-c0x00ffffff-no-rj", Mều Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Meu/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/RfQiRrbPVAXxnKfsd2AgbAuCjwKNYozS9ivNEhsXKQuOmW9_6_JYtMDfOZTQnSReggRy9ONj=s160-c-k-c0x00ffffff-no-rj", Hat Snow Player
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Hatsnow/index.m3u8
 #------------------------Camera------------------------#
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giao thông cầu Vĩnh Tuy (Hà Nội)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
