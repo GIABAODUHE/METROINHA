@@ -294,8 +294,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png", QPVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=19
-#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/960px-Logo_VOV.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="", Báo Điện tử Tiếng nói Việt Nam (VOV)
-http://huetr-iptv-live.loca.lt/live/VOV/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="https://cdn.tienphong.vn/assets/web/styles/img/tienphong-logo-2025.png" group-title="", Báo Tiền Phong
+http://huetr-iptv-live.loca.lt/live/TP/index.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/HITV.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -826,7 +826,7 @@ https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
 #EXTINF:-1 group-title="Nghe nhạc" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tn.png", ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
-#------------------------Sự kiện trực tiếp------------------------#
+#------------------------Sự kiện Sự Kiện TV360------------------------#
 #EXTINF:-1 group-title="Sự kiện trực tiếp" tvg-logo="https://i.imgur.com/6mHxmN5.png", TV360 LiveStream 1 
 https://freem3u.xyz/api/live/play.m3u8?vid=9888
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
@@ -907,6 +907,11 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wwWyLf1tVeOZirJ5zJjg0w","k":"EpmDNcfaiYd6obHVDx7BdA"}],"type":"temporary"}
 https://vmttv.dpdns.org/tv360/?id=tv360-15
+#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png", TV360 Promo
+https://freem3u.xyz/api/live/play.m3u8?vid=9904
+#EXTINF:-1 tvg-id="" group-title="Sự Kiện TV360" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
+https://vmttv.dpdns.org/tv360/?id=livestream-01
+#------------------------Sự kiện VTVPrime------------------------#
 #EXTINF:-1 tvg-id="vtvprime1" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1003,23 +1008,23 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
-#------------------------RẠP PHIM------------------------#
-#EXTINF:-1 tvg-id="hoat-hinh" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png",Hoạt hình
+#------------------------Giải Trí------------------------#
+#EXTINF:-1 tvg-id="hoat-hinh" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png",Hoạt hình
 https://vmttv.dpdns.org/tv360/?id=hoat-hinh
-#EXTINF:-1 tvg-id="phim-au-my" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png",Phim Âu Mỹ
+#EXTINF:-1 tvg-id="phim-au-my" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png",Phim Âu Mỹ
 https://vmttv.dpdns.org/tv360/?id=phim-au-my
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
-#EXTINF:-1 tvg-id="360-anime" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png",360 Anime
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
+#EXTINF:-1 tvg-id="360-anime" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png",360 Anime
 https://vmttv.dpdns.org/tv360/?id=360-anime
-#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",360 Phim Kinh điển
+#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",360 Phim Kinh điển
 https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
-#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",360 Hài-Tình cảm
+#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",360 Hài-Tình cảm
 https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
-#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữ
+#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữ
 https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
-#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="Livestream" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_480_270.png",360 Hành động Châu Á
+#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_480_270.png",360 Hành động Châu Á
 https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
-#EXTINF:-1 tvg-id="360-k-drama" group-title="Rạp phim" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
+#EXTINF:-1 tvg-id="360-k-drama" group-title="Giải Trí" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
 #EXTINF:-1 tvg-id="360phim4k" group-title="Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png",360 Phim 4K
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
@@ -1033,7 +1038,7 @@ https://vmttv.dpdns.org/tv360/?id=360-doraemon
 https://vmttv.dpdns.org/tv360/?id=360-tham-tu-conan
 #EXTINF:-1 tvg-id="360chautinhtri" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Châu Tinh Trì
 https://vmttv.dpdns.org/tv360/?id=360-chau-tinh-tri
-#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png", 360 Sống khỏe
+#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_480_270.png", 360 Sống khỏe
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
 #------------------------Khoảng khắc thể thao------------------------#
 #EXTINF:-1 tvg-id="360-c1-chau-au" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",360 C1 Châu Âu
@@ -1052,12 +1057,12 @@ https://vmttv.dpdns.org/tv360/?id=360-bundesliga
 https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 tvg-id="360-tennis" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
 https://vmttv.dpdns.org/tv360/?id=360-tennis
-#EXTINF:-1 group-title="Khoảnh khắc thể thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png", TV360 Promo
-https://freem3u.xyz/api/live/play.m3u8?vid=9904
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
-https://vmttv.dpdns.org/tv360/?id=livestream-01
 #------------------------Live Stream------------------------#
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.ytimg.com/vi/OOBHpdo1dZU/mqdefault.jpg" group-title="Công Lý", US-UK Lofi Cover
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 1
+http://huetr-iptv-live.loca.lt/live/NASA1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 2
+http://huetr-iptv-live.loca.lt/live/NASA2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/OOBHpdo1dZU/mqdefault.jpg", US-UK Lofi Cover
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/USUK/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
