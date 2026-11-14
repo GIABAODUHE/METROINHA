@@ -383,6 +383,18 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/THVL5.png/revision/latest/scale-to-width-down/1000?cb=20250830060643&path-prefix=vi", Báo & PTTT Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="" group-title="THLV Fast" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2026/11/09/vombh4o4_buttonchanels_thvl_2026_phim.png", THVL Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="THVL Fast" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2026/11/09/j159617q_buttonchanels_thvl_2026_giaitri.png", THVL Giải Trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2026/11/09/ch99vpqy_buttonchanels_thvl_2026_thieunhi.png", THVL Thiếu Nhi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2026/11/09/83hnkzf9_buttonchanels_thvl_2026_chuyende.png", THVL Chuyên Đề
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png", Báo & PTTH An Giang 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=66
@@ -390,6 +402,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://i.ibb.co/bRJBTPxQ/H5-1-removebg-preview.png", Báo & PTTH An Giang 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png", Báo & PTTH Ninh Bình
