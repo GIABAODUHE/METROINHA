@@ -943,6 +943,12 @@ https://vmttv.dpdns.org/tv360/?id=tv360-15
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 tvg-id="" group-title="Sự Kiện TV360" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
 https://vmttv.dpdns.org/tv360/?id=livestream-01
+#------------------------Chuỗi nội dung VTVPrime------------------------#
+#EXTINF:-1 tvg-id="vtvprime1" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png", Prime Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
+#EXTINF:-1 tvg-id="vtvprime1" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png", Prime UEFA
+https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
 #------------------------Sự kiện VTVPrime------------------------#
 #EXTINF:-1 tvg-id="vtvprime1" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1200,9 +1206,9 @@ http://huetr-iptv-live.loca.lt/live/Maruko/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/VTHDoO1AwTgwAJ9dxgnkz9mlP0ZWYTURRPwiSrs03arAlW3qgqNn9a6ql83NpQwwfD2s10d6rw=s160-c-k-c0x00ffffff-no-rj", Shaun the Sheep [ViệtNam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Sheep/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://fanart.tv/api/download.php?type=download&image=251936&section=3", Xin Chào Jadoo
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://imgs.vietnamnet.vn/Images/2011/11/15/11/20111115111007_Untitled-1.jpg?width=0&s=HEngSYIYUipS7Uziq7p_2g", Shin - Cậu bé bút chì (Movie)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://huetr-iptv-live.loca.lt/live/Jadoo/index.m3u8
+http://huetr-iptv-live.loca.lt/live/Shin/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/T5jVxbf_qo_zKAHx_blbMRvyElV9jc_u4PwuWqvDxgDStRfrgrw0BKtSdXQyAtwMBGARKyPRYg=s160-c-k-c0x00ffffff-no-rj", Talking Tom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://huetr-iptv-live.loca.lt/live/Tom/index.m3u8
@@ -1568,7 +1574,7 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #------------------------Triều Tiên------------------------#
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Triều Tiên",Korean Central Television (1080p)
-https://live.koryocdn.org/kctv/index.m3u8
+https://stream.intchoson.com/kctv/index.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" http-referrer="https://kcnawatch.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="Triều Tiên",Korean Central Television (KCTV) (576p)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
