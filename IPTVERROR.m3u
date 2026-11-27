@@ -267,7 +267,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2-Vie Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
-#EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Vie_Channel_by_DatViet_VAC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", Vie Channel by DatViet VAC
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Vie_Channel_by_DatViet_VAC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", Vie Channel by DatViet VAC
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Vie/index.m3u8
@@ -302,10 +302,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=12
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="" tvg-logo="https://i.imgur.com/ZHVkEIC.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.vietanhtv.top/vieon/vieon.php?id=htvc-ca-nhac
-#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/Yeah1_2022.png/revision/latest?cb=20240322140206&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", Yeah1
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/Yeah1_2022.png/revision/latest?cb=20240322140206&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", Yeah1
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Yeah1/index.m3u8
@@ -384,7 +384,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HaNoi.png", Báo & PTTH Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=34
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/HanoiTV_UHD_logo.png/revision/latest/scale-to-width-down/1676?cb=20250604164852&path-prefix=vi", Hà Nội Livestream
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg/1280px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail", Hà Nội Livestream
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/HN/index.m3u8
@@ -1104,175 +1104,197 @@ https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 tvg-id="360-tennis" group-title="Khoảnh khắc thể thao" group-logo="" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
 https://vmttv.dpdns.org/tv360/?id=360-tennis
 #------------------------Đài Phát------------------------#
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/9/22/jack-1790048457337709609476.png", J97
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/9/22/jack-1790048457337709609476.png", J97
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/J97/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/bN-TLg3P5dbDFYNbpzeCs8yPkaHZBOWXzUd3YD7ewUIXP8siAUiFLl1sa9NAhFQkL_gjj34mYw=s900-c-k-c0x00ffffff-no-rj", Nguyễn Thái Học Official
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/bN-TLg3P5dbDFYNbpzeCs8yPkaHZBOWXzUd3YD7ewUIXP8siAUiFLl1sa9NAhFQkL_gjj34mYw=s900-c-k-c0x00ffffff-no-rj", Nguyễn Thái Học Official
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/NTH/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/kZL6v5EBYwtNfRKfkP6md3c6Gjzf0g6efOFCD4EDV2AghiOqETQj5QC3NUCptNAq_bsxEjZZcR0=s900-c-k-c0x00ffffff-no-rj", Hiền Hồ Official
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/kZL6v5EBYwtNfRKfkP6md3c6Gjzf0g6efOFCD4EDV2AghiOqETQj5QC3NUCptNAq_bsxEjZZcR0=s900-c-k-c0x00ffffff-no-rj", Hiền Hồ Official
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/HH/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/L46th1F8NFrBcu0CnXCFqp0zYwGFiA7dYD-9ZGgDNNxKZXrOuYWcpBCer-Kku_G9ndmDBttsgg=s900-c-k-c0x00ffffff-no-rj", TUNG DUONG Official
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/L46th1F8NFrBcu0CnXCFqp0zYwGFiA7dYD-9ZGgDNNxKZXrOuYWcpBCer-Kku_G9ndmDBttsgg=s900-c-k-c0x00ffffff-no-rj", TUNG DUONG Official
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/TD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/0XplkO2ypV1TrQuLhzJHNjtNein9nLSXH8OrT2f2CIQpkqpah6PHNH5nCXu4C-8CqAHOd2T8=s900-c-k-c0x00ffffff-no-rj", Quốc Thiên Official
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/0XplkO2ypV1TrQuLhzJHNjtNein9nLSXH8OrT2f2CIQpkqpah6PHNH5nCXu4C-8CqAHOd2T8=s900-c-k-c0x00ffffff-no-rj", Quốc Thiên Official
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/QT/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/qffiem05lPLzx7tR4i0PQ24eMq5t7KD0AhO_MIXM0Brzh2yRcW0QCH-KReAj0jb1xrqQ3e_9sQ=s900-c-k-c0x00ffffff-no-rj", VĂN MAI HƯƠNG OFFICIAL
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/qffiem05lPLzx7tR4i0PQ24eMq5t7KD0AhO_MIXM0Brzh2yRcW0QCH-KReAj0jb1xrqQ3e_9sQ=s900-c-k-c0x00ffffff-no-rj", VĂN MAI HƯƠNG OFFICIAL
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/VMH/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://yt3.googleusercontent.com/e4Pnr3Qac1GrRCfLrozDUEZM4-SoOzgn0YddQDXQXXGS4NzX7aCrLJXZW-EAOYY7T436_es-=s900-c-k-c0x00ffffff-no-rj", Trịnh Đình Quang Official
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/e4Pnr3Qac1GrRCfLrozDUEZM4-SoOzgn0YddQDXQXXGS4NzX7aCrLJXZW-EAOYY7T436_es-=s900-c-k-c0x00ffffff-no-rj", Trịnh Đình Quang Official
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/TDQ/index.m3u8
 #------------------------Live Stream------------------------#
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 1
+#EXTINF:-1 tvg-id="" group-title="Hàng không Vũ trụ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 1
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/NASA1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 2
+#EXTINF:-1 tvg-id="" group-title="Hàng không Vũ trụ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uFbZcpQcmIgYh_pZGbHbs3sUZo34Ktf6BjnmymhG-Q&s=10", NASA Stream 2
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/NASA2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/OOBHpdo1dZU/mqdefault.jpg", US-UK Lofi Cover
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.ytimg.com/vi/OOBHpdo1dZU/mqdefault.jpg", US-UK Lofi Cover
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/USUK/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/ui3TvAKmVDm0eMv5xm8_ddDC4p-VLRrYlDtYKxdZC2UUJwokCgN8oOMyli-M_5LTgaPb-MLB=s900-c-k-c0x00ffffff-no-rj", Nhạc Trẻ Remix (MIX CHILL CHANNEL) 
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Remix/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-Js4b1tIH1yQVQnrkxGJos9uXjTa3CMlBg8FXdQ2j9h4=s160-c-k-c0x00ffffff-no-rj", Fin'd
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n-Js4b1tIH1yQVQnrkxGJos9uXjTa3CMlBg8FXdQ2j9h4=s160-c-k-c0x00ffffff-no-rj", Fin'd
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Find/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/on-YRXSJ5Ig/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv6lkMvGPktHUz6Zk1xrgwNaaftg", Lofi Girl  (Hip Hop radio - Study 📚)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://c.wallhere.com/photos/59/90/LofiGirl_LoFi_neon_LofiBoy_purple_blue-2234432.jpg!d", Lofi Girl  (synthwave radio 🌌 beats to chill/game to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://c.wallhere.com/photos/59/90/LofiGirl_LoFi_neon_LofiBoy_purple_blue-2234432.jpg!d", Lofi Girl  (synthwave radio 🌌 beats to chill/game to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/S_MOd40zlYU/maxresdefault.jpg", Lofi Girl  (dark ambient radio 🌃 music to escape/dream to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/S_MOd40zlYU/maxresdefault.jpg", Lofi Girl  (dark ambient radio 🌃 music to escape/dream to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi3/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/-OekvEFm1lo/hq720.jpg?v=6707f95f&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCX_fme7MIADEN2LwIeR0hNyeC5CQ", Lofi Girl  (gentle rain ambience 🌧 cozy sound to chill to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/-OekvEFm1lo/hq720.jpg?v=6707f95f&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCX_fme7MIADEN2LwIeR0hNyeC5CQ", Lofi Girl  (gentle rain ambience 🌧 cozy sound to chill to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi4/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/IxPANmjPaek/maxresdefault.jpg", Lofi Girl  (medieval lofi radio 🏰 - beats to scribe manuscripts to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/IxPANmjPaek/maxresdefault.jpg", Lofi Girl  (medieval lofi radio 🏰 - beats to scribe manuscripts to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/fQ35eh6k0RI/maxresdefault.jpg", Lofi Girl  (sleep ambient music 💤 relaxing radio to fall asleep to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/fQ35eh6k0RI/maxresdefault.jpg", Lofi Girl  (sleep ambient music 💤 relaxing radio to fall asleep to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi6/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/E_XmwjgRLz8/hq720.jpg?v=68a74269&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKDexjI6eVFoszf7zyadLxl7Upaw", Lofi Girl  (chill guitar radio 🎸 music to study/relax to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/E_XmwjgRLz8/hq720.jpg?v=68a74269&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKDexjI6eVFoszf7zyadLxl7Upaw", Lofi Girl  (chill guitar radio 🎸 music to study/relax to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi7/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/q_4KI-ChIIs/mqdefault.jpg", Lofi Girl  (fireplace ambience 🔥 cozy sound to chill to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/q_4KI-ChIIs/mqdefault.jpg", Lofi Girl  (fireplace ambience 🔥 cozy sound to chill to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi8/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.ggpht.com/ek1g6M4BrNVH0CEdn7s2jciNv--IeBpMJ98EM1muXOFoFTNb852nWj41PqSoNvzvvJeigghZtO4h=s1024-nd-v1", Lofi Girl  (Halloween lofi radio 🧟‍♀️ - spooky beats to get chills to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://yt3.ggpht.com/ek1g6M4BrNVH0CEdn7s2jciNv--IeBpMJ98EM1muXOFoFTNb852nWj41PqSoNvzvvJeigghZtO4h=s1024-nd-v1", Lofi Girl  (Halloween lofi radio 🧟‍♀️ - spooky beats to get chills to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi9/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/A8jDx9TLMQc/sddefault.jpg?v=698f87e4", Lofi Girl  (relaxing jazz music 🌹 cozy radio to study/chill to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/A8jDx9TLMQc/sddefault.jpg?v=698f87e4", Lofi Girl  (relaxing jazz music 🌹 cozy radio to study/chill to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi10/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/G7QfxCOXEAArf1Q?format=jpg&name=4096x4096", Lofi Girl  (classical music radio 🎻 relaxing songs to read/study to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://pbs.twimg.com/media/G7QfxCOXEAArf1Q?format=jpg&name=4096x4096", Lofi Girl  (classical music radio 🎻 relaxing songs to read/study to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi11/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/4t4AQ15yj1M/hq720.jpg?v=6aea0b77&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-o20R6CgarhmCJpCiHwuRAwlM8Q", Lofi Girl  (christmas lofi music🎄cozy radio to get festive to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/4t4AQ15yj1M/hq720.jpg?v=6aea0b77&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-o20R6CgarhmCJpCiHwuRAwlM8Q", Lofi Girl  (christmas lofi music🎄cozy radio to get festive to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi12/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/N0snMcR6aaA/maxresdefault.jpg", Lofi Girl  (relaxing piano radio 🎹 calm music to focus to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/N0snMcR6aaA/maxresdefault.jpg", Lofi Girl  (relaxing piano radio 🎹 calm music to focus to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi13/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/JD-kMIpDfnY/maxresdefault.jpg", Lofi Girl  (lofi hip hop radio 💤 beats to sleep/chill to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/JD-kMIpDfnY/maxresdefault.jpg", Lofi Girl  (lofi hip hop radio 💤 beats to sleep/chill to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi14/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/E2vONfzoyRI/hqdefault.jpg?v=6ad62c7c", Lofi Girl  (jazz lofi radio 🎷 beats to chill/study to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/E2vONfzoyRI/hqdefault.jpg?v=6ad62c7c", Lofi Girl  (jazz lofi radio 🎷 beats to chill/study to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi15/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/1Tl2FtV06qo/maxresdefault.jpg", Lofi Girl  (asian lofi radio ⛩️ beats to relax/study to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/1Tl2FtV06qo/maxresdefault.jpg", Lofi Girl  (asian lofi radio ⛩️ beats to relax/study to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi16/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/CwPCy1GLS38/hq720.jpg?v=6a16e661&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbZZH9kF9qx82t5UOjQEy7ypDuCQ", Lofi Girl  (sad lofi radio ☔ beats for rainy days)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/CwPCy1GLS38/hq720.jpg?v=6a16e661&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbZZH9kF9qx82t5UOjQEy7ypDuCQ", Lofi Girl  (sad lofi radio ☔ beats for rainy days)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi17/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://cdn.lofigirl.com/pomodro.jpeg", Lofi Girl  (Study With Me 📚 Pomodoro)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://cdn.lofigirl.com/pomodro.jpeg", Lofi Girl  (Study With Me 📚 Pomodoro)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi18/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://pbs.twimg.com/media/HJ5WKd7XoAAoEFF?format=jpg&name=large", Lofi Girl  (synth ambient radio 🌌 deep space music to sleep to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi19/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeIP3wU3c4SPhjHSclrhtrQPcHhAdEohIEc3-xCf-VztM9D_O", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeIP3wU3c4SPhjHSclrhtrQPcHhAdEohIEc3-xCf-VztM9D_O", Lofi Girl  (sleep lofi radio 🌌 relaxing music to sleep/dream to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi20/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đài Phát" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0QRwCKadz2AtMC7swCtOSscf_PKNACl9EskiLj0FCjpenc8xv", Lofi Girl  (24/7 deep sleep music 🌌 calm ambient to sleep & dream to)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0QRwCKadz2AtMC7swCtOSscf_PKNACl9EskiLj0FCjpenc8xv", Lofi Girl  (24/7 deep sleep music 🌌 calm ambient to sleep & dream to)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi21/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://pbs.twimg.com/media/HPnva7zWYAARGb1?format=jpg&name=large", Lofi Girl (summer lofi radio ☀️ music to put you in a better mood)
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://pbs.twimg.com/media/HPnva7zWYAARGb1?format=jpg&name=large", Lofi Girl (summer lofi radio ☀️ music to put you in a better mood)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi22/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://i.ytimg.com/vi/3PFJ9SETS4M/maxresdefault.jpg?v=6ab8bf5c", Lofi house radio 🌅 lounge music to vibe/chill to 
+#EXTINF:-1 tvg-id="" group-title="Lofi Girl" tvg-logo="https://i.ytimg.com/vi/3PFJ9SETS4M/maxresdefault.jpg?v=6ab8bf5c", Lofi house radio 🌅 lounge music to vibe/chill to 
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 https://huetr-iptv-live.loca.lt/live/Lofi23/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/NKUNfkXGmKEjzBEEkFUoLpRKUqJGOA4KQ5VknBod-Npk2eRARp6VnR8OkRbjmQw7mArR6sAR4kk=s160-c-k-c0x00ffffff-no-rj", Dreamcore
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://yt3.googleusercontent.com/NKUNfkXGmKEjzBEEkFUoLpRKUqJGOA4KQ5VknBod-Npk2eRARp6VnR8OkRbjmQw7mArR6sAR4kk=s160-c-k-c0x00ffffff-no-rj", Dreamcore
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Dream/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Doraemon
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Doraemon
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Doraemon/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Maruko
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://images.wantedly.com/i/ZCYoboZ", Pops Kids-Maruko
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Maruko/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/VTHDoO1AwTgwAJ9dxgnkz9mlP0ZWYTURRPwiSrs03arAlW3qgqNn9a6ql83NpQwwfD2s10d6rw=s160-c-k-c0x00ffffff-no-rj", Shaun the Sheep [ViệtNam]
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://yt3.googleusercontent.com/VTHDoO1AwTgwAJ9dxgnkz9mlP0ZWYTURRPwiSrs03arAlW3qgqNn9a6ql83NpQwwfD2s10d6rw=s160-c-k-c0x00ffffff-no-rj", Shaun the Sheep [ViệtNam]
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Sheep/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://imgs.vietnamnet.vn/Images/2011/11/15/11/20111115111007_Untitled-1.jpg?width=0&s=HEngSYIYUipS7Uziq7p_2g", Shin - Cậu bé bút chì (Movie)
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://imgs.vietnamnet.vn/Images/2011/11/15/11/20111115111007_Untitled-1.jpg?width=0&s=HEngSYIYUipS7Uziq7p_2g", Shin - Cậu bé bút chì (Movie)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Shin/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/T5jVxbf_qo_zKAHx_blbMRvyElV9jc_u4PwuWqvDxgDStRfrgrw0BKtSdXQyAtwMBGARKyPRYg=s160-c-k-c0x00ffffff-no-rj", Talking Tom
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://yt3.googleusercontent.com/T5jVxbf_qo_zKAHx_blbMRvyElV9jc_u4PwuWqvDxgDStRfrgrw0BKtSdXQyAtwMBGARKyPRYg=s160-c-k-c0x00ffffff-no-rj", Talking Tom
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Tom/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://yt3.googleusercontent.com/o3XSE_XXaKJmo185uk4OTY3gf56rwCtviaR0bU3ecA4JO5AqJToAbfx0vS7zbVjL-_qVcXwjrg=s160-c-k-c0x00ffffff-no-rj", Brainrot Stories
+#EXTINF:-1 tvg-id="" group-title="Thiếu Nhi" tvg-logo="https://yt3.googleusercontent.com/o3XSE_XXaKJmo185uk4OTY3gf56rwCtviaR0bU3ecA4JO5AqJToAbfx0vS7zbVjL-_qVcXwjrg=s160-c-k-c0x00ffffff-no-rj", Brainrot Stories
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
 #EXTVLCOPT:http-header=bypass-tunnel-reminder: true
 http://huetr-iptv-live.loca.lt/live/Brainrot/index.m3u8
+#------------------------Giáo phận công giáo------------------------#
+#EXTINF:-1 tvg-id="" group-title="Giáo phận công giáo" tvg-logo="https://yt3.googleusercontent.com/qn-zIxQ4sutz-8j_9gGdrWH_01bYRUjSlv4GZxijwnvHEUwwnFWipfP31jyuSP-OtXfqC22GEQ=s900-c-k-c0x00ffffff-no-rj", Tổng Giáo Phận Sài Gòn
+#EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
+#EXTVLCOPT:http-header=bypass-tunnel-reminder: true
+http://huetr-iptv-live.loca.lt/live/TGPSG/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Giáo phận công giáo" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_la8rGmIAVWXOJHADbsNC61l1cQIZLPZnKUtoRWgRcnGGA=s900-c-k-c0x00ffffff-no-rj", Giáo Phận Mỹ Tho
+#EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
+#EXTVLCOPT:http-header=bypass-tunnel-reminder: true
+http://huetr-iptv-live.loca.lt/live/GPMT/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Giáo phận công giáo" tvg-logo="https://yt3.googleusercontent.com/A3DUzailLkCCCoeZDT4Hnvw6Z7PqyQAf83QBnXVYV83P-nQqq_WZaBRFVuvbnncmOAVTrVw2=s900-c-k-c0x00ffffff-no-rj", Giáo Phận Xuân Lộc
+#EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
+#EXTVLCOPT:http-header=bypass-tunnel-reminder: true
+http://huetr-iptv-live.loca.lt/live/GPXL/index.m3u8
+#------------------------Gaming------------------------#
+#EXTINF:-1 tvg-id="" group-title="Gaming" tvg-logo="https://yt3.googleusercontent.com/YaAFWY03ER0DfF77HAyMqNlRxmJiSEDq_I7ZF0MlcgRcVzOhIhZfB8QlwNhAuVXZesi2I2zy=s900-c-k-c0x00ffffff-no-rj", MixiGaming
+#EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
+#EXTVLCOPT:http-header=bypass-tunnel-reminder: true
+http://huetr-iptv-live.loca.lt/live/Mixi/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Gaming" tvg-logo="https://yt3.googleusercontent.com/RfQiRrbPVAXxnKfsd2AgbAuCjwKNYozS9ivNEhsXKQuOmW9_6_JYtMDfOZTQnSReggRy9ONj=s160-c-k-c0x00ffffff-no-rj", Hat Snow Player
+#EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
+#EXTVLCOPT:http-header=bypass-tunnel-reminder: true
+http://huetr-iptv-live.loca.lt/live/Hat/index.m3u8
 #------------------------Camera------------------------#
 #EXTINF:-1 tvg-id="" group-title="Camera" tvg-logo="https://cdn-icons-png.flaticon.com/512/4249/4249275.png", Camera Giao thông cầu Vĩnh Tuy (Hà Nội)
 #EXTVLCOPT:http-user-agent=IPTVPlayer/1.0
