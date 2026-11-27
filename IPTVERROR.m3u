@@ -944,10 +944,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 tvg-id="" group-title="Sự Kiện TV360" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/09/18/1791545103696/96eed9b7eda2_480_270.png", Livestream 01
 https://vmttv.dpdns.org/tv360/?id=livestream-01
 #------------------------Chuỗi nội dung VTVPrime------------------------#
-#EXTINF:-1 tvg-id="vtvprime1" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png", Prime Phim Việt
+#EXTINF:-1 tvg-id="" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png", Prime Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
-#EXTINF:-1 tvg-id="vtvprime1" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png", Prime UEFA
+#EXTINF:-1 tvg-id="" group-title="Chuỗi nội dung VTVPrime" tvg-logo="https://img.vtvprime.vn/1UkMX8mNKTwS41bXs-jB-zgkiVSCd2-fauPS6ivhfbw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE3NDQ2NTYtMTkzNS00NGQzLWJiNmItZGNmMmVhZWYyMzgxLnBuZw==.png", Prime UEFA
 https://vrhxx6ozhpliv.vcdn.cloud/hls/playout.m3u8
 #------------------------Sự kiện VTVPrime------------------------#
 #EXTINF:-1 tvg-id="vtvprime1" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
